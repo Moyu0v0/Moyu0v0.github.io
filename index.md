@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### 个人简介
 
-You can use the [editor on GitHub](https://github.com/Moyu0v0/Moyu0v0.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### 1. 手机、邮箱、求职意向、主修课程、博客地址
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2. 教育经历、证书
 
-### Markdown
+### 项目经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 1. 项目介绍
 
-```markdown
-Syntax highlighted code block
+#### 2. 技术栈
 
-# Header 1
-## Header 2
-### Header 3
+#### 3. 主要工作
 
-- Bulleted
-- List
+### 专业技能
 
-1. Numbered
-2. List
+#### 1. 熟练掌握 
 
-**Bold** and _Italic_ and `Code` text
+HTML、CSS、JavaScript、AJAX
 
-[Link](url) and ![Image](src)
-```
+HTML5、CSS3新特性、ES6新特性
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Vue框架(Vue-cli、Vue-router、Vuex)以及Vant UI、Element UI组件库
 
-### Jekyll Themes
+Echarts、Axios等工具
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Moyu0v0/Moyu0v0.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+uni-app微信小程序开发、H5页面开发
 
-### Support or Contact
+#### 2. 了解掌握
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Node.js以及Express框架、MySQL数据库、Webpack
+
+#### 3. 了解
+
+计算机网络、算法与数据结构相关知识
